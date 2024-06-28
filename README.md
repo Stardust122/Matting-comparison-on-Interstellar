@@ -1,5 +1,10 @@
 # Matting-comparison-on-Interstellar
 
+<p align="center">
+    <img src="cover_image.png" width="350"/>
+    <img src="cover_alpha.png" width="350"/>
+</p>
+
 This project makes a comparison between In-Context Matting and Robust Video Matting on a 5s-clip from the movie *Interstellar*. The comparison is based on the quality of the alpha matte.
 
 The repository above includes part of the code of In-Context Matting needed for testing on the Interstellar clip. The original repository of In-Context Matting can be found [here](https://github.com/tiny-smart/in-context-matting).
