@@ -1,7 +1,7 @@
 # Matting-comparison-on-Interstellar
 
 <p align="center">
-    <img src="cover_image.png" width="350"/>
+    <img src="cover_image.jpg" width="350"/>
     <img src="cover_alpha.png" width="350"/>
 </p>
 
